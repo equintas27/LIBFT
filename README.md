@@ -44,13 +44,19 @@ cc main.c libft.a -o meu_programa
 # Exemplo de uso
 
 #include "libft.h"
+
 #include <stdio.h>
 
 int main(void)
+
 {
+
     char *s = "Hello World!";
+    
     printf("Tamanho: %zu\n", ft_strlen(s));
+    
     return 0;
+    
 }
 # Saída esperada:
 
