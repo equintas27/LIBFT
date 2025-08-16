@@ -41,5 +41,19 @@ Isso irá gerar o arquivo libft.a, que pode ser linkado nos seus programas em C:
 Depois disso, rode isso no terminal:
 
 cc main.c libft.a -o meu_programa
+# Exemplo de uso
+
+#include "libft.h"
+#include <stdio.h>
+
+int main(void)
+{
+    char *s = "Hello World!";
+    printf("Tamanho: %zu\n", ft_strlen(s));
+    return 0;
+}
+# Saída esperada:
+
+Tamanho: 12
 
 Autor: Eugênio Quintas
