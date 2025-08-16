@@ -1,3 +1,4 @@
+# Libft
 O LIBFT é um projecto do curriculo da escola 42
 Ela é uma biblioteca estática, nela implementei a minha própria versão das principais funções em c..
 Com ela aprendi sobre manipulação de strings, alocação dinâmica de memória, endereço de memória, estrutura de dados!
