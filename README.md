@@ -31,6 +31,7 @@ Clone o repositório e rode o "make":
 bash
 
 git clone https://github.com/equintas27/LIBFT.git
+
 cd libft
 
 make
